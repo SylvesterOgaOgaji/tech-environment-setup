@@ -22,28 +22,15 @@ Visual Studio Code (VS Code) is a free, lightweight, and powerful source code ed
 
 I visited the [official website](https://code.visualstudio.com/download), see the image below: 
 
-![Landing Page](./img/img.vsccode/VS-Code-landing-page.jpg)
+![Landing Page](./img/img.vsccode/1main.jpg)
 
-then I proceeded to downloading the setup
+![Run Installer](./img/img.vsccode/VScode-setup-Installation.jpg)
 
-![](./img/img.vsccode/VScode-setup-Installation.jpg)
+![wizard](./img/img.vsccode/VScode-Additional%20Task3.jpg)
 
-from this point I acccepted the agreement and it took the installation to the selecting a destination
-
-![Location](./img/img.vsccode/VScode-Destination-Location.jpg)
-
-![installation](./img/img.vsccode/VScode-Additional%20Ready-to-Install4.jpg)
-
-![](./img/img.vsccode/VScode-Additional%20Ready-to-Install4.jpg)
-
-![](./img/img.vsccode/VScode-Additional%20Ready-to-Install4.jpg)
-
-![](./img/img.vsccode/VScode-Installing5.jpg)
-
-![](./img/img.vsccode/VScode-Completing-the-Visual-Studio-Code-Setup-Wizard.jpg)
+![install](./img/img.vsccode/VScode-Installing5.jpg)
 
 ![](./img/img.vsccode/VScode-Welcome-Page7.jpg)
-
 
 # NEXT: Git
 
@@ -55,7 +42,7 @@ Git is a free and open-source version control system designed to track changes i
 
 This took me to the landing page:
 
-![](./img/img.git/Downloading_git_setup.jpg)
+![](./img/img.git/1main.jpg)
 
 ![](./img/img.git/Installing_gitbash.jpg)
 
@@ -65,6 +52,8 @@ This took me to the landing page:
 
 ![](./img/img.git/installion_finished.jpg)
 
+![Output terminal](./img/img.git/last.jpg)
+
 ## Virtual Box
 
 VirtualBox is a free and open-source virtualization software developed by Oracle. It allows users to create and run multiple virtual machines (VMs) on a single physical computer. Each VM operates as an independent system, running its own operating system (Windows, Linux, macOS, etc.) alongside the host OS.
@@ -72,7 +61,7 @@ VirtualBox is a free and open-source virtualization software developed by Oracle
 ### Visited the [official website](https://www.virtualbox.org/wiki/Downloads) 
 to download the setup:
 
-![](./img/img.virtualBox/virtualBox-Download.jpg)
+![](./img/img.virtualBox/welcome%20page.jpg)
 
 ![](./img/img.virtualBox/virtualBox-installation.jpg)
 
@@ -83,6 +72,8 @@ to download the setup:
 ![](./img/img.virtualBox/virtualBox-proceed-with-installation.jpg)
 
 ![](./img/img.virtualBox/virtualBox-installation-complete.jpg)
+
+![welcome screen](./img/img.virtualBox/completed.jpg)
 
 # Ubuntu: A Brief Overview
 Ubuntu is a free and open-source Linux-based operating system developed by Canonical Ltd. It is one of the most popular Linux distributions, known for its user-friendliness, stability, and security. Ubuntu is widely used for personal computing, servers, cloud computing, and IoT devices.
@@ -115,7 +106,7 @@ This [Ubuntu downlaod](https://www.ubuntu.com/download/desktop) grant me access 
 
 ![](./img/img.ubuntu/Screenshot%202025-03-31%20194506.jpg)
 
-
+![](./img/img.ubuntu/ubuntu%20login%20prompt%20inside%20virtualbox.jpg)
 
 # Next: GitHub Account Creation
 
@@ -131,9 +122,9 @@ then I proceeded to login becuase I already have an account:
 
 login successfully and landed at the home page:
 
+![](./img/img.git_hub_account/dashb.jpg)
+
 ![](./img/img.git_hub_account/welcome_page.jpg)
-
-
 
 # AWS Account Creation
 
@@ -147,6 +138,6 @@ Because I already have an account i then login:
 
 ![](./img/img.aws/Start_building.jpg)
 
-![](./img/img.aws/welcome_page.jpg)
+![AWS Management Console](./img/img.aws/welcome_page.jpg)
 
 
