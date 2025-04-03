@@ -179,7 +179,7 @@ Name: Enter a name (e.g., "Ubuntu 22.04")
 2. Visit the [GitHub link](https://github.com/) 
 
 ## Step 2: Fill the signup page
-1. Type a valid email address you can access (e.g., leolex7693@gmail.com).
+1. Type a valid email address you can access (e.g., slyokoh@gmail.com).
 2. Enter password and username
 
 ## Step 3: Verify Your Account
@@ -210,7 +210,7 @@ Creating of Amazon Web Services (AWS) Account
 2. Click Create an AWS Account (top-right corner)
 
 ## Step 2: Enter Account Details
-1. Email Address: Use a valid email (e.g., ofrelex@gmail.com).
+1. Email Address: Use a valid email (e.g., slyokoh@gmail.com).
 2. Click Verify email address.
     * AWS will send a verification code to your email.
 3. Enter the verification code from the email.
